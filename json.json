@@ -1,0 +1,16 @@
+[
+    {    
+        "Foodrecipe": "Pizzadough",
+        "how to make": "start by",
+        "ingridients": {
+            "flower": "1000g",
+            "water": "650g",
+            "yeast": "3g",
+            "salt": "25g",
+            "sugar": "10g"
+            
+        }
+        
+    }
+
+]
